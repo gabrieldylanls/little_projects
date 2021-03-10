@@ -1,0 +1,7 @@
+add_product has been running with args (<inventory.Inventory object at 0x7fd8de652760>, Product(name=Default, price=10.5, amount=5)), kwargs {}
+add_product has been running with args (<inventory.Inventory object at 0x7fd8de652580>, Product(name=Default, price=10.5, amount=5)), kwargs {}
+__delitem__ has been running with args (<inventory.Inventory object at 0x7fd8de652580>, 0), kwargs {}
+add_product has been running with args (<inventory.Inventory object at 0x7fd8de652760>, Product(name=Default, price=10.5, amount=5)), kwargs {}
+add_product has been running with args (<inventory.Inventory object at 0x7fd8de652760>, Product(name=Default, price=10.5, amount=5)), kwargs {}
+total has been running with args (<inventory.Inventory object at 0x7fd8de652760>,), kwargs {}
+add_product has been running with args (<inventory.Inventory object at 0x7fd8de652220>, 'A'), kwargs {}
